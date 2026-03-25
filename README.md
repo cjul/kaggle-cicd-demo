@@ -1,4 +1,4 @@
-# Kaggle CI/CD Demo for a Python Data Science Project
+# Kaggle CI/CD Demo for a Python Data Sciences Project
 
 This package contains two self-contained example projects based on the **Kaggle Titanic** workflow:
 
